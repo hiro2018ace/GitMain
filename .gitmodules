@@ -1,0 +1,3 @@
+[submodule "GitSub"]
+	path = GitSub
+	url = git@github.com:hiro2018ace/GitSub.git
